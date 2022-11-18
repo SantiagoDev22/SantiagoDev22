@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CodeIgniter PHP framework**
 
-- 💬 Ask me about **Fonic Framework**
+- 💬 Ask me about **Ionic Framework**
 
 - 📫 How to reach me **santiagoavilagarcia23z@gmail.com**
 
