@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mobile application development**
 
-- 🌱 I’m currently learning **CodeIgniter PHP framework**
+- 🤓 I’m currently learning **CodeIgniter PHP framework**
 
 - 💬 Ask me about **Ionic Framework**
 
