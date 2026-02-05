@@ -26,38 +26,56 @@ Focused on building scalable mobile and web applications using modern frameworks
 
 ### 🛠️ Languages & Tools
 
+### 🎨 Frontend
 <p align="left">
-
-<!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/angular/angular-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-
-<!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/laravel/laravel-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
-<!-- Mobile -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/ionic/ionic-original.svg" width="40" height="40"/>
-
-<!-- Database -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg" width="40" height="40"/>
-
-<!-- Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/firebase/firebase-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/figma/figma-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postman/postman-original.svg" width="40" height="40"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/angular/angular-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </p>
+
+---
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/laravel/laravel-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📱 Mobile
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/ionic/ionic-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🧰 DevOps & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/firebase/firebase-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postman/postman-original.svg" width="40" height="40"/>
+</p>
+
 
 ---
 
